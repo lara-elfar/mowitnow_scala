@@ -42,6 +42,7 @@ Lorsqu'une tondeuse achève une série d'instruction, elle communique sa positio
 orientation.
 
 **OBJECTIF**
+
 Concevoir et écrire un programme en Scala, implémentant la spécification ci-dessus et
 passant le test ci-après.
 
